@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Zeta/static/css/main.eb773ef6.css",
+    "main.js": "/Zeta/static/js/main.698e3e13.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Zeta/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/foorerbg.jpg": "/Zeta/static/media/foorerbg.efa761070b4eb05c7172.jpg",
+    "static/media/fontawesome-webfont.eot": "/Zeta/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Zeta/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/house.webp": "/Zeta/static/media/house.65648d99b88e5a1280e8.webp",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Zeta/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/portfolio2.jpg": "/Zeta/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Zeta/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/villa.webp": "/Zeta/static/media/villa.770d4d62b612b8388bd1.webp",
+    "static/media/villa2.webp": "/Zeta/static/media/villa2.460444fa0b4257c85a52.webp",
+    "static/media/logo-w.webp": "/Zeta/static/media/logo-w.15898f68414834e43d6e.webp",
+    "static/media/logo.webp": "/Zeta/static/media/logo.58639c0abdd4e9831728.webp",
+    "static/media/sponsor1.webp": "/Zeta/static/media/sponsor1.1368a2ee02c3dfbea9f7.webp",
+    "index.html": "/Zeta/index.html",
+    "main.eb773ef6.css.map": "/Zeta/static/css/main.eb773ef6.css.map",
+    "main.698e3e13.js.map": "/Zeta/static/js/main.698e3e13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb773ef6.css",
+    "static/js/main.698e3e13.js"
+  ]
+}
