@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Zeta/static/css/main.eb773ef6.css",
-    "main.js": "/Zeta/static/js/main.698e3e13.js",
+    "main.css": "/Zeta/static/css/main.c28785f7.css",
+    "main.js": "/Zeta/static/js/main.58fb60ef.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Zeta/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/foorerbg.jpg": "/Zeta/static/media/foorerbg.efa761070b4eb05c7172.jpg",
     "static/media/fontawesome-webfont.eot": "/Zeta/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -16,11 +16,11 @@
     "static/media/logo.webp": "/Zeta/static/media/logo.58639c0abdd4e9831728.webp",
     "static/media/sponsor1.webp": "/Zeta/static/media/sponsor1.1368a2ee02c3dfbea9f7.webp",
     "index.html": "/Zeta/index.html",
-    "main.eb773ef6.css.map": "/Zeta/static/css/main.eb773ef6.css.map",
-    "main.698e3e13.js.map": "/Zeta/static/js/main.698e3e13.js.map"
+    "main.c28785f7.css.map": "/Zeta/static/css/main.c28785f7.css.map",
+    "main.58fb60ef.js.map": "/Zeta/static/js/main.58fb60ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb773ef6.css",
-    "static/js/main.698e3e13.js"
+    "static/css/main.c28785f7.css",
+    "static/js/main.58fb60ef.js"
   ]
 }
